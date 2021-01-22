@@ -32,4 +32,4 @@ spec:
   valuesFrom:
   - kind: ConfigMap
     name: aae-values-configmap
-    valuesKey: aae-values.yam
+    valuesKey: aae-values.yaml
